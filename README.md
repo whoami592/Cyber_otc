@@ -2,8 +2,7 @@
 
 **Coded by: Mr Sabaz Ali Khan (Cyber Security Engineer)**
 
-Cyber OTC is a Python-based OSINT (Open Source Intelligence) toolkit inspired by
-classic recon tools like Mr.Holmes — rebuilt from scratch with its own codebase,
+Cyber OTC is a Python-based OSINT (Open Source Intelligence) toolkit  — rebuilt from scratch with its own codebase,
 banner and branding. It gathers publicly available information about usernames,
 domains, and phone numbers, and generates Google dork queries for recon work.
 
