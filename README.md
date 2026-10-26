@@ -21,7 +21,7 @@ All results are saved automatically as timestamped JSON reports in `cyberotc_rep
 ## 📦 Installation
 
 ```bash
-git clone <your-repo-url> CyberOTC
+git clone https://github.com/whoami592/Cyber_otc
 cd CyberOTC
 pip install -r requirements.txt
 python3 cyber_otc.py
